@@ -1,5 +1,5 @@
  
-<img align = "right" height = "350em" src = "https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" />
+<img align = "right" height = "200em" src = "https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" />
 <a align = "left"href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=425&height=35&lines=Hi!%2C+I'm+Gabriel+Baima!" alt="Typing SVG" /></a>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabrielbaim&color=blue" alt="Profile views" /> </p>
